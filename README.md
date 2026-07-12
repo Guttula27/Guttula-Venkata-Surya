@@ -25,7 +25,7 @@ Full-Stack Developer currently building **PaynPik**, a live multi-tenant POS and
 - Architecting systems end-to-end: database schema, REST API layer, and frontend, with security and scalability built in from the start (JWT, RBAC, HMAC SHA-256)
 - Building retrieval and reasoning pipelines for AI agents — vector search, intent routing, and structured LLM output enforcement
 - B.Tech in Computer Science (AI & Machine Learning), Chandigarh University
-- 100+ DSA problems solved on LeetCode; continuously shipping documented, production-grade projects
+- 150+ DSA problems solved on LeetCode; continuously shipping documented, production-grade projects
 
 ---
 
